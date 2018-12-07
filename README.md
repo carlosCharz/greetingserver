@@ -27,3 +27,6 @@ http://localhost:8090/greetingserver/
 ```
  mvn spring-boot:run
 ```
+```
+ SERVER_PORT=8091 mvn spring-boot:run
+```
